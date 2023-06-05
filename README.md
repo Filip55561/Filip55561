@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Filip55561
-- 👀 I’m interested in ... Coding/Games
-- 🌱 I’m currently learning ... JavaScript
-- 📫 How to reach me ... Discord.
+- 👀 I’m interested in Coding/Games
+- 🌱 I’m currently learning Lua
