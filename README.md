@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Filip55561
 - 👀 I’m interested in Coding/Games
-- 🌱 I’m currently learning Lua
+- 🌱 I’m currently learning Lua and Haxe
